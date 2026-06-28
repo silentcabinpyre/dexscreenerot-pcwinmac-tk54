@@ -1,4 +1,4 @@
-# 
+# رسمي dexscreener sniper bot سكريبتات لـ Mac OS | نهائي dexscreener sniper bot سكريبتات لـ PC Windows. مع تكامل موجه DEX و تتبع الأسعار — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
